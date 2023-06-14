@@ -1,0 +1,3 @@
+flask
+aws-wsgi
+Werkzeug==2.0.1
